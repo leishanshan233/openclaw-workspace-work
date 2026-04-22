@@ -1,17 +1,31 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
+**Name:** 33 总（33 总）
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+**Background:**
+- 2025 年毕业于重庆理工大学
+- 专业：信息管理与信息系统
+- 当前所在地：东莞
 
-## Context
+**Employment:**
+- 公司：领益制造科技（东莞）有限公司
+- 职位：IT 业务分析与应用助理工程师
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+**主要职责:**
+1. **MES 系统业务需求收集与分析** — 对接业务部门，挖掘需求
+2. **系统实施与部署** — 推动系统落地
+3. **项目管理与资源协调** — 统筹进度和人力
+4. **技术支持与培训** — 给用户赋能
+5. **MES 系统功能开发与系统集成测试** — 实际动手写代码
 
----
+**技术栈:**
+- **开发语言：** C#/WPF/React（工作需求，大学主修 Java）
+- **主攻方向：** MES 制造执行系统
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+**工作风格:**
+- 喜欢按计划行事，偏好有条理的工作节奏
+
+**Notes:**
+- 从 Java 转到 C# 可能需要适应期，可以帮你补充 C# 相关的最佳实践
+- MES 系统涉及制造业生产流程，业务逻辑可能比较复杂
+- 作为助理工程师，角色偏执行层，但责任范围较广
